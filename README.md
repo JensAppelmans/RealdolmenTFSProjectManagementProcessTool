@@ -6,6 +6,7 @@ Therefore I uploaded the report I wrote at the end of my internship.
 So please read the report if you want more information about the project. 
 
 Used technologies: 
+
 -React Front-end
 -ASP.NET Core Web API Backend and speaking to the databse
 -CouchDB (NoSQL) for the database
